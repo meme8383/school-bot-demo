@@ -7,10 +7,14 @@ This bot is designed to help people find others in a specific class, find out wh
 
 # File Explanation:
 
-bot.py - The bot python code
+bot.py - The bot python code.
 
-classes.csv - A numbered list of classes at the school - not much functionality in current version
+classes.csv - A numbered list of classes at the school - not much functionality in current version.
 
-users.csv - A list of users, including various information
+users.csv - A list of users, with Discord ID, a list of classes, IRL names, grades, and guest status.
+
+requirements.txt - A list of packages and versions. These may be very outdated.
+
+token.txt - The bot token. Currently empty.
 
 This project is no longer being updated. Many methods being used are inefficient and basic. This was my first real project, don't judge too hard.
