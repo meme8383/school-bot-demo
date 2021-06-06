@@ -3,6 +3,8 @@
 This is a discord bot to manage a school discord.
 This is a modified version of a bot I created for my school's discord server which does not include any private information.
 
+This bot is designed to help people find others in a specific class, find out who a specific discord user is, and many other school-related tasks. This is not a bot with moderation commands or other basic functions. It is designed to work alongside other bots, as it has functions that no other bot would have and that would be useful to mainly this discord server.
+
 # File Explanation:
 
 bot.py - The bot python code
