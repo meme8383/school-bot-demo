@@ -1,3 +1,5 @@
+**This project is no longer being updated. This was originally created in 2019. I am aware that many methods being used are inefficient and basic.**
+
 # school-bot-demo
 
 This is a discord bot to manage a school discord.
