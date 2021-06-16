@@ -20,5 +20,3 @@ users.csv - A list of users, with Discord ID, a list of classes, IRL names, grad
 requirements.txt - A list of packages and versions. These may be very outdated.
 
 token.txt - The bot token. Currently empty.
-
-**This project is no longer being updated. Many methods being used are inefficient and basic. This was my first real project, don't judge too hard.**
